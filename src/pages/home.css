@@ -1,0 +1,46 @@
+.button-addon {
+  margin-left: 8px;
+  padding: 5px;
+  padding-left: 10px;
+  border-left-style: groove;
+}
+
+.content-area {
+  margin-top: 250px;
+  color: teal;
+}
+
+.section-detail {
+  font-size: 50px;
+  margin-top: 200px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.search_button {
+  background-color: transparent;
+  border: 0 solid #e2e8f0;
+  border-radius: 1.5rem;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Basier circle", -apple-system, system-ui, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+  text-decoration-thickness: auto;
+  transition: all 0.1s cubic-bezier(0.4, 0, 0.2, 1);
+
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.search_button:hover {
+  background-color: #5b7ef1;
+}
+
+@media (min-width: 768px) {
+  .search_button {
+    font-size: 1.125rem;
+    padding: 1rem 2rem;
+  }
+}

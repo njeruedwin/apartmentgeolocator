@@ -1,0 +1,296 @@
+
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Apartment",
+        "properties": {
+          "APARTMENT_ID": 1,
+          "TYPE": "bed sitter",
+          "PRICE":  5000,
+          "TITLE": "Saldido Apartments",
+          "DESCRIPTION": "This 45m2 apartment is in the city center close to (LN). Completely furnished, with two separate bedrooms, one bathroom and separated toilet. Accommodation for 4 people up to 6 people. The building offers comfortable and secure living in the best district of Juja.",
+          "AUTHOR": "Saldido Apartments",
+          "EMAIL": "saldido@gmail.com",
+          "ADDRESS_ONE":" juja, near Kalimoni ",
+          "ADDRESS_TWO":"Juja square",
+          "PHONENUMBER": "0826254246",
+          "IMAGEMAINVIEW":"apartment1.webp",
+          "IMAGEONE":"apartment1.webp",
+          "IMAGETWO":"apartment2.jpg",
+          "IMAGETHREE":"apartment4.jpg",
+          "URL": "https://sites.google.com/view/solivigant/home"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-1.1061705734477272,37.01600641642457]
+        }
+      },
+      {
+        "type": "Apartment",
+        "properties": {
+          "APARTMENT_ID": 2,
+          "TYPE": "bed sitter",
+          "PRICE":  11000,
+          "TITLE": "EMB Apartments",
+          "DESCRIPTION": "Apartment was built as modern open space where the fully equipped kitchen is a part o living zone with comfortable double bed (there is a possibility to extend the sofa to one extra bed). The bathroom was designed in a minimalistic style as well as the dressing-room. Through the large door-windows you can go to the private garden terrace, where you can enjoy your breakfast in the morning sunrise or have a glass of wine in the evening.",
+          "AUTHOR": "EMB Apartments",
+          "EMAIL": "emb@gmail.com",
+          "ADDRESS_ONE":" juja, opposite retu ",
+          "ADDRESS_TWO":"Juja square",
+          "PHONENUMBER": "0826254246",
+          "IMAGEMAINVIEW":"apartment1.webp",
+          "IMAGEONE":"blackcoach.jpg",
+          "IMAGETWO":"apartment4.jpg",
+          "IMAGETHREE":"apartment4.jpg",
+          
+          "URL": "https://sites.google.com/view/solivigant/home"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-1.1012147707966249,37.01347441111451]
+        }
+      },
+      {
+        "type": "Apartment",
+        "properties": {
+          "APARTMENT_ID": 3,
+          "TYPE": "Two bedroom",
+          "PRICE":  6000,
+          "TITLE": "Jambu Apartments",
+          "DESCRIPTION": " This romantic apartment is perfectly suited for business trip, couple or couple with children. Located in the strong central area includes a cozy studio equiped with nice sofa and queen bed, also there is fully equiped kitchen. Excellent WIFI network.",
+          "AUTHOR": "Jambu Apartments",
+          "EMAIL": "jambu@gmail.com",
+          "ADDRESS_ONE":" juja, opposite Rimshow ",
+          "ADDRESS_TWO":"Juja square",
+          "PHONENUMBER": "0826254246",
+          "IMAGEMAINVIEW":"blackcoach.jpg",
+          "IMAGEONE":"apartment1.webp",
+          "IMAGETWO":"apartment4.jpg",
+          "IMAGETHREE":"apartment2.jpg",
+
+          "URL": "https://sites.google.com/view/solivigant/home"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [ -1.1044810059309622,37.01347790436859]
+        }
+      },
+      {
+        "type": "Apartment",
+        "properties": {
+          "APARTMENT_ID": 4,
+          "TYPE": "Two bedroom",
+          "PRICE":  6000,
+          "TITLE": "Dolphinne Apartments",
+          "DESCRIPTION": "Beautiful two bedroom Old Town apartment with magnificent views with spacious terrace and fully equipped kitchen and two bathrooms. One of the bathroom is ensuite. The Apartment has a beautiful and spacious terrace with views of all major historical sights",
+          "AUTHOR": "Dolphinne Apartments",
+          "EMAIL": "Dolphinne@gmail.com",
+          "ADDRESS_ONE":" juja, opposite Rimshow ",
+          "ADDRESS_TWO":"Juja square",
+          "PHONENUMBER": "0826254246",
+          "IMAGEMAINVIEW":"blackcoach.jpg",
+          "IMAGEONE":"apartment1.webp",
+          "IMAGETWO":"apartment4.jpg",
+          "IMAGETHREE":"apartment2.jpg"
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-1.1063728396302794,37.01560290305785]
+        }
+      },
+      {
+        "type": "Apartment",
+        "properties": {
+          "APARTMENT_ID": 5,
+          "TYPE": "Three bedroom",
+          "PRICE":  6000,
+          "TITLE": "Standy Apartments",
+          "DESCRIPTION": " This Old Town apartment with air conditioning and free parking features bedroom with king size bed and Netflix, comfortable living room with smart TV and Netflix, full equipped kitchen with coffee machine and balcony, bathroom with rain shower, bath-tube and unlimited hot water. Neighborhood is surrounded by foodie hot spots and the main sights are in walking distance! I provide you not even the apartment, but also helpful guides which I created for my guests. You will never get lost or hungry!",
+          "AUTHOR": "Standy Apartments",
+          "EMAIL": "Standy@gmail.com",
+          "ADDRESS_ONE":" juja, primeview street ",
+          "ADDRESS_TWO":"Juja delmonte",
+          "PHONENUMBER": "0826254246",
+          "IMAGEMAINVIEW":"blackcoach.jpg",
+          "IMAGEONE":"apartment1.webp",
+          "IMAGETWO":"apartment4.jpg",
+          "IMAGETHREE":"apartment2.jpg"
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-1.105954493001091,37.013382033993516]
+        }
+      },
+      {
+        "type": "Apartment",
+        "properties": {
+          "APARTMENT_ID": 6,
+          "TYPE": "Three bedroom",
+          "PRICE":  6000,
+          "TITLE": "Njega Apartments",
+          "DESCRIPTION": " Discover a mix of modernity and history in this characteristic (CN) flat. The space features wood finishes, subtle uses of color, an open layout living area and kitchen, a cozy master bedroom, second bedroom and rooftop views.",
+          "AUTHOR": "Njega Apartments",
+          "EMAIL": "Njega@gmail.com",
+          "ADDRESS_ONE":" juja, opposite Rimshow ",
+          "ADDRESS_TWO":"Juja delmonte",
+          "PHONENUMBER": "0826254246",
+          "IMAGEMAINVIEW":"blackcoach.jpg",
+          "IMAGEONE":"apartment1.webp",
+          "IMAGETWO":"apartment4.jpg",
+          "IMAGETHREE":"apartment2.jpg"
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-1.1074455230252649,37.01371462791136]
+        }
+      },
+      {
+        "type": "Apartment",
+        "properties": {
+          "APARTMENT_ID": 7,
+          "TYPE": "Four bedroom",
+          "PRICE":  6000,
+          "TITLE": "Nala Apartments",
+          "DESCRIPTION": "this Apartment is designed in a Modern and Practical elements which provides maximum comfort and the best experience during your visit in (CN). The Apartment has contemporary style decoration in combination with original wooden elements and come together with shades of grey, beige and white to give the studio an exquisite elegance. Located in 2nd floor of a historical residential house is close to main points of interest.",
+          "AUTHOR": "Nala Apartments",
+          "EMAIL": "Nala@gmail.com",
+          "ADDRESS_ONE":" juja, Roadshow street ",
+          "ADDRESS_TWO":"Juja Roadshow Pictures",
+          "PHONENUMBER": "0826254246",
+          "IMAGEMAINVIEW":"blackcoach.jpg",
+          "IMAGEONE":"apartment1.webp",
+          "IMAGETWO":"apartment4.jpg",
+          "IMAGETHREE":"apartment2.jpg"
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-1.1029187964652227,37.01649339645079]
+        }
+      },
+      {
+        "type": "Apartment",
+        "properties": {
+          "APARTMENT_ID": 8,
+          "TYPE": "Four bedroom",
+          "PRICE":  6000,
+          "TITLE": "Just-In Apartments",
+          "DESCRIPTION": "Warm apartment ideal for business trip, families or couple. The apartment is located in an old historical building and includes spacious kitchen, separate toilet at the entrance of apartment, cozy bedroom with a nice bathroom and lovely living room. Great WIFI network. ",
+          "AUTHOR": "Just-In Apartments",
+          "EMAIL": "Just-In@gmail.com",
+          "ADDRESS_ONE":" juja, Univeral Kameo Street ",
+          "ADDRESS_TWO":"Juja Native",
+          "PHONENUMBER": "0826254246",
+          "IMAGEMAINVIEW":"blackcoach.jpg",
+          "IMAGEONE":"apartment1.webp",
+          "IMAGETWO":"apartment4.jpg",
+          "IMAGETHREE":"apartment2.jpg"
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-1.1025111761996764,37.01704056708983]
+        }
+      },
+      {
+        "type": "Apartment",
+        "properties": {
+          "APARTMENT_ID": 9,
+          "TYPE": "Two bedroom",
+          "PRICE":  6000,
+          "TITLE": "Martial Apartments",
+          "DESCRIPTION": "The apartment has a floor space of 60 square meters and it’s located on the first floor, and in it you will find a spacious living room with a stylish sitting area with smart TV with Netflix included, fully equipped kitchen and a dining. The sofa extends as a bed suitable for two people. The bedroom comes with the most comfortable bed with a choice of pillows and blackout curtains for the perfect night in after a long day. There are separate bathroom with a shower and a toilet that come with all the necessary toiletries.",
+          "AUTHOR": "Martial Apartments",
+          "EMAIL": "Martial@gmail.com",
+          "ADDRESS_ONE":" juja, Still Marina ",
+          "ADDRESS_TWO":"Juja Marina",
+          "PHONENUMBER": "0826254246",
+          "IMAGEMAINVIEW":"blackcoach.jpg",
+          "IMAGEONE":"apartment1.webp",
+          "IMAGETWO":"apartment4.jpg",
+          "IMAGETHREE":"apartment2.jpg"
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-1.1062441175968012,37.014111594845566]
+        }
+      },
+      {
+        "type": "Apartment",
+        "properties": {
+          "APARTMENT_ID": 10,
+          "TYPE": "bed sitter",
+          "PRICE":  6000,
+          "TITLE": "Summer_house Apartments",
+          "DESCRIPTION": " Make yourself at home in our cosy, modern apartment in the picturesque (CN) right at the foot of the romantic ___ hill and within walking distance from all major sights.The apartment consists of a large bright bedroom with a comfy king-sized bed, a modern fully-equipped kitchen and a sunlit living room with Apple TV and free Netflix account. It is the perfect place to stay for couples looking for a romantic location in the historic centre, within walking distance of some of the most beautiful sceneries you can find in the city and all famous landmarks",
+          "AUTHOR": "Summer_house Apartments",
+          "EMAIL": "Summer_house@gmail.com",
+          "ADDRESS_ONE":" juja, Still Marina ",
+          "ADDRESS_TWO":"Juja Marina",
+          "PHONENUMBER": "0826254246",
+          "IMAGEMAINVIEW":"blackcoach.jpg",
+          "IMAGEONE":"apartment1.webp",
+          "IMAGETWO":"apartment4.jpg",
+          "IMAGETHREE":"apartment2.jpg"
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-1.1067590056971786,37.016396836926255]
+        }
+      },
+      {
+        "type": "Apartment",
+        "properties": {
+          "APARTMENT_ID": 11,
+          "TYPE": "Four Bedroom",
+          "PRICE":  6000,
+          "TITLE": "Kqlick Apartments",
+          "DESCRIPTION": " This newly renovated, fully furnished studio features a bedroom with a queen bed and sofa-bed on the upper floor, a spacious and cozy living room with a comfy sofa-bed facing a TV with Netflix on a first floor, a small work table, a dining table, a spacious bathroom with a bathtub and a brand new fully-equipped kitchen. A wall safe and luggage holder also available.",
+          "AUTHOR": "Kqlick Apartments",
+          "EMAIL": "Kqlick@gmail.com",
+          "ADDRESS_ONE":" juja, Still Marina ",
+          "ADDRESS_TWO":"Juja Marina",
+          "PHONENUMBER": "0826254246",
+          "IMAGEMAINVIEW":"blackcoach.jpg",
+          "IMAGEONE":"apartment1.webp",
+          "IMAGETWO":"apartment4.jpg",
+          "IMAGETHREE":"apartment2.jpg"
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-1.109290537556334,37.012663201977524]
+        }
+      },
+      {
+        "type": "Apartment",
+        "properties": {
+          "APARTMENT_ID": 12,
+          "TYPE": "Three Bedroom",
+          "PRICE":  6000,
+          "TITLE": "Chaplin Apartments",
+          "DESCRIPTION": " The three bedrooms apartment with kitchen and bathroom in old gallery house just in the (CN´s) Old Town is in very quiet street with private yard. The apartment is in 4th floor with elevator, so it is well accessible. Kitchen, bathroom, big hall, two bedrooms with two double beds and one convertible sofa and nice relax areas – everything like at home.",
+          "AUTHOR": "Chaplin Apartments",
+          "EMAIL": "Chaplin@gmail.com",
+          "ADDRESS_ONE":" juja, Still Marina ",
+          "ADDRESS_TWO":"Juja Marina",
+          "PHONENUMBER": "0826254246",
+          "IMAGEMAINVIEW":"blackcoach.jpg",
+          "IMAGEONE":"apartment1.webp",
+          "IMAGETWO":"apartment4.jpg",
+          "IMAGETHREE":"apartment2.jpg"
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-1.1058579514628941,37.01699765174559]
+        }
+      }
+    ]
+  }
